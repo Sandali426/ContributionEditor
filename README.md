@@ -28,4 +28,4 @@ This script automatically generates commits for the past 5 days (20 per day) and
 
    ```bash
    git clone https://github.com/Sandali426/ContributionEditor.git
-   cd activity-booster
+   cd contributioneditor
