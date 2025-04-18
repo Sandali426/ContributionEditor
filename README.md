@@ -1,4 +1,4 @@
-# Activity Booster 💥
+# Contribution Editor 💥
 
 Boost your GitHub contribution graph with 100 backdated commits across 5 days!
 
