@@ -27,5 +27,5 @@ This script automatically generates commits for the past 5 days (20 per day) and
 1. **Clone this repo** or create your own and add the script:
 
    ```bash
-   git clone https://github.com/Sandali426/activity-booster.git
+   git clone https://github.com/Sandali426/ContributionEditor.git
    cd activity-booster
